@@ -1,0 +1,23 @@
+{
+  "name": "thinx-kato-fong",
+  "version": "1.0.0",
+  "description": "THiNX Chat Bot",
+  "main": "kato.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suculent/thinx-kato-fong.git"
+  },
+  "keywords": [
+    "thinx",
+    "mqtt"
+  ],
+  "author": "Matej Sychra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suculent/thinx-kato-fong/issues"
+  },
+  "homepage": "https://github.com/suculent/thinx-kato-fong#readme"
+}
