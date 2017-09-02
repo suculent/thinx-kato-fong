@@ -1,6 +1,6 @@
 # THiNX: Kato Fong
 
-This is automated chat-bot for THiNX. It should serve to administrator.
+This is automated chat-bot for [THiNX OpenSource IoT management platform](https://thinx.cloud). It should serve to administrator.
 
 ### Server Administrator
 
