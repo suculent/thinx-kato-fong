@@ -1,5 +1,7 @@
 # THiNX: Kato Fong
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/suculent/thinx-kato-fong.svg)](https://greenkeeper.io/)
+
 This is automated chat-bot for [THiNX OpenSource IoT management platform](https://thinx.cloud). It should serve to administrator.
 
 ### Server Administrator
